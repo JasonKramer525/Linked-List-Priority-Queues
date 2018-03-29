@@ -1,6 +1,4 @@
-/* Author: Jason Kramer 
- * Class Acc: cssc0914
- */
+// Author: Jason Kramer 
 
 package data_structures;
 
